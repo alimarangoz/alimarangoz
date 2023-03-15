@@ -1,7 +1,7 @@
-- 👋 **Hi, I’m Ali Marangoz**
-- 👀 I’m interested in Web Programming , Database Management Systems and Java programming
-- 🌱 I’m currently learning Hibernate
-- 💞️ I’m looking to collaborate on new projects which is about Web programming
+## 👋 **Hi, I’m Ali Marangoz**
+I'm studying Computer Engineering and Senior student(4th year) in Mugla Sitki Kocman University(Turkiye). 
+- 👀 I’m interested in Android Programming with Kotlin and Java programming with Spring, Spring Boot.
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me --> ali.marangoz1999@gmail.com
 
 <!---
