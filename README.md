@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alimarangoz
+- 👋 **Hi, I’m Ali Marangoz**
 - 👀 I’m interested in Web Programming , Database Management Systems and Java programming
 - 🌱 I’m currently learning Hibernate
 - 💞️ I’m looking to collaborate on new projects which is about Web programming
