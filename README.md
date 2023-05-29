@@ -1,6 +1,6 @@
 ## 👋 **Hi, I’m Ali Marangoz**
 I'm studying Computer Engineering and Senior student(4th year) in Mugla Sitki Kocman University(Turkiye).
-- I'm currently working at Yapikredi Teknoloji as part-time Full-Stack Developer.
+- I'm currently working at <a href="https://www.ykteknoloji.com.tr/">Yapikredi Teknoloji</a> as part-time Full-Stack Developer.
 - 👀 I’m working on Android Programming with Kotlin and I'm working on Java programming with Spring, Spring Boot.
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me --> ali.marangoz1999@gmail.com
