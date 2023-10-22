@@ -1,8 +1,8 @@
 ## 👋 **Hi, I’m Ali Marangoz**
-I'm studying Computer Engineering and Senior student(4th year) in Mugla Sitki Kocman University(Turkiye).
-- 💻 I'm currently working at <a href="https://www.ykteknoloji.com.tr/">Yapi Kredi Teknoloji</a> as part-time Full-Stack Developer.
-- 👀 I’m working on Android Programming with Kotlin and I'm working on Java programming with Spring, Spring Boot.
-- 🎯 I’m currently learning Android Programming in Kotlin and Kafka.
+I'm graduated as Computer Engineer from Mugla Sitki Kocman University(Turkiye).
+- 💻 I'm currently working at <a href="https://www.ykteknoloji.com.tr/">Yapi Kredi Teknoloji</a> as Assistant Software Engineer.
+- 👀 I'm working on Java programming with Spring, Spring Boot and I’m working on Android Programming with Kotlin.
+- 🎯 I’m currently learning Microservice Architecture.
 - 📫 How to reach me --> ali.marangoz1999@gmail.com
 
 ### Contact with me ✅
